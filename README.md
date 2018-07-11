@@ -1,2 +1,2 @@
 # gradient-descent
-A hardcoded gradient descent with python
+A gradient descent implementation with python
