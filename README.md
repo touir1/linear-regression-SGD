@@ -9,10 +9,34 @@ This project is part of the <b>#100DaysOfMLCode</b> challenge proposed By [Siraj
 * Hardcoded linear regression: [linear-regression-hardcoded.ipynb](http://nbviewer.jupyter.org/github/touir1/linear-regression-SGD/blob/master/linear-regression-hardcoded.ipynb)
 
 ## Dependencies ##
-No dependencies for this project
-<!---
-* tweepy: _pip install -U tweepy_
--->
+I'm using [pipenv](https://docs.pipenv.org/) for the dependencies. So for installing dependencies, you need to:
+* _pip install pipenv_
+After that you only need to execute _pipenv install_.
+
+If you don't want to use pipenv, you can install the dependencies manually:
+
+* [numpy](http://www.numpy.org/): _pip install numpy_
+* [matplotlib](https://matplotlib.org): _pip install matplotlib_
+* [pandas](https://pandas.pydata.org/): _pip install pandas_
+* [ipykernel](https://ipython.readthedocs.io/en/stable/): _pip install ipykernel_
+
+## How to run ##
+
+If you are using pipenv:
+* Go to the project directory
+* Execute in a command promt (windows) or a terminal (linux): pipenv shell
+* Execute: python -m ipykernel install --user --name=my-virtualenv-name
+* Execute: jupyter notebook
+* In the jupyter notebook web app, open the corresponding .ipynb file.
+
+If you don't use pipenv:
+* Execute: jupyter notebook
+* In the jupyter notebook web app, open the corresponding .ipynb file.
+
+<b>Note:</b> If you are unfamiliar with [jupyter](http://jupyter.org/) notebook, you can visit their website to learn more:
+* How to install: [http://jupyter.org/install](http://jupyter.org/install).
+* How to run: [https://jupyter.readthedocs.io/en/latest/running.html](https://jupyter.readthedocs.io/en/latest/running.html).
+* Full documentation: [https://jupyter.org/documentation](https://jupyter.org/documentation).
 
 ## Authors ##
 
@@ -23,7 +47,7 @@ No dependencies for this project
 
 ## License ##
 
-sentiment-analysis-twitter-textblob is published under the [MIT license](http://www.opensource.org/licenses/mit-license)
+sentiment-analysis-twitter-textblob is published under the [MIT license](http://www.opensource.org/licenses/mit-license).
 
 ## Special thanks ##
 
