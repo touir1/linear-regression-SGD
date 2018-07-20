@@ -6,7 +6,7 @@ A linear regression implementation using stochastic gradient descent with python
 This project is part of the <b>#100DaysOfMLCode</b> challenge proposed By [Siraj Raval](https://twitter.com/sirajraval).
 
 ## Jupyter notebooks ##
-* Hardcoded linear regression: [linear-regression-hardcoded.ipynb](http://nbviewer.jupyter.org/github/touir1/linear-regression-SGD/blob/master/linear-regression-hardcoded.ipynb)
+* Hardcoded simple linear regression: [linear-regression-hardcoded.ipynb](http://nbviewer.jupyter.org/github/touir1/linear-regression-SGD/blob/master/linear-regression-hardcoded.ipynb)
 
 ## Dependencies ##
 I'm using [pipenv](https://docs.pipenv.org/) for the dependencies. So for installing dependencies, you need to:
