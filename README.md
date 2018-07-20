@@ -51,5 +51,5 @@ linear-regression-SGD is published under the [MIT license](http://www.opensource
 
 ## Special thanks ##
 
-[Siraj Raval](https://twitter.com/sirajraval) for proposing the [#100DaysOfMLCode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah) challenge.
+[Siraj Raval](https://twitter.com/sirajraval) for starting the [#100DaysOfMLCode](https://twitter.com/search?q=%23100DaysOfMLCode&src=tyah) challenge.
 
