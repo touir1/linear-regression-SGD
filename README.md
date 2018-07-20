@@ -47,7 +47,7 @@ If you don't use pipenv:
 
 ## License ##
 
-sentiment-analysis-twitter-textblob is published under the [MIT license](http://www.opensource.org/licenses/mit-license).
+linear-regression-SGD is published under the [MIT license](http://www.opensource.org/licenses/mit-license).
 
 ## Special thanks ##
 
