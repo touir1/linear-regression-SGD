@@ -19,6 +19,8 @@ If you don't want to use pipenv, you can install the dependencies manually:
 * [matplotlib](https://matplotlib.org): _pip install matplotlib_
 * [pandas](https://pandas.pydata.org/): _pip install pandas_
 * [ipykernel](https://ipython.readthedocs.io/en/stable/): _pip install ipykernel_
+* [sklearn](http://scikit-learn.org/stable/): _pip install sklearn_
+* [scipy](https://www.scipy.org/): _pip install scipy_
 
 ## How to run ##
 
