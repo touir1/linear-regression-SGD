@@ -22,6 +22,7 @@ If you don't want to use pipenv, you can install the dependencies manually:
 * [ipykernel](https://ipython.readthedocs.io/en/stable/): _pip install ipykernel_
 * [sklearn](http://scikit-learn.org/stable/): _pip install sklearn_
 * [scipy](https://www.scipy.org/): _pip install scipy_
+* [moviepy](https://zulko.github.io/moviepy/): _pipenv install moviepy_
 
 ## How to run ##
 
