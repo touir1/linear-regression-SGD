@@ -23,6 +23,7 @@ If you don't want to use pipenv, you can install the dependencies manually:
 * [sklearn](http://scikit-learn.org/stable/): _pip install sklearn_
 * [scipy](https://www.scipy.org/): _pip install scipy_
 * [moviepy](https://zulko.github.io/moviepy/): _pipenv install moviepy_
+* [requests](http://docs.python-requests.org/en/master/): _pipenv install requests_
 
 ## How to run ##
 
