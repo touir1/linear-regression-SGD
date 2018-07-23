@@ -25,6 +25,8 @@ If you don't want to use pipenv, you can install the dependencies manually:
 * [moviepy](https://zulko.github.io/moviepy/): _pipenv install moviepy_
 * [requests](http://docs.python-requests.org/en/master/): _pipenv install requests_
 
+I'm also using a video codec to render the animation into a gif file. The one i'm using is [imagemagick](https://www.imagemagick.org/script/index.php).
+
 ## How to run ##
 
 If you are using pipenv:
