@@ -1,5 +1,5 @@
 # linear-regression-SGD
-[![npm](https://img.shields.io/badge/langage-Python-blue.svg?style=flat-square)](https://www.python.org/) [![npm](https://img.shields.io/npm/l/date-2.svg?style=flat-square)](https://github.com/touir1/Date2/blob/master/LICENSE)
+[![npm](https://img.shields.io/badge/langage-Python-blue.svg?style=flat-square)](https://www.python.org/) [![npm](https://img.shields.io/npm/l/date-2.svg?style=flat-square)](https://github.com/touir1/linear-regression-SGD/blob/master/LICENSE)
 
 A linear regression implementation using stochastic gradient descent with python.
 
